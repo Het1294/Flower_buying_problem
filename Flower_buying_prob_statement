@@ -1,0 +1,7 @@
+Buying Flowers
+Chef wants to buy exactly N flowers, where N≥2. He has two options for purchasing: he can pay 4 coins to get 2 flowers,
+or he can pay 5 coins to get 3 flowers. Both types of transactions can be repeated as many times as he likes. 
+our task is to find the minimum number of coins Chef needs to pay to acquire exactly N flowers.
+Constraints:
+1≤T≤100
+2≤N≤100
